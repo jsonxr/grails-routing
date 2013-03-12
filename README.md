@@ -1,0 +1,1 @@
+Forked to support Apache Camel 2.10.4
